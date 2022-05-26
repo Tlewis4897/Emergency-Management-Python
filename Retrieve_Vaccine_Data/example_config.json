@@ -1,0 +1,11 @@
+{
+    "survey_xlsx_path":"",
+    "fda_url":"",
+    "email_creds":{
+        "from_email":"",
+        "to_emails":"",
+        "username":"",
+        "gmail_app_id":""
+    }
+
+}
